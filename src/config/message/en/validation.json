@@ -1,0 +1,7 @@
+{
+    "description": "Validation failed with message: %s.",
+    "notEmpty": "field '%s' should not be empty",
+    "isObject": "field '%s' should be object",
+    "registered": "%s registered",
+    "unRegistered": "%s unregistered"
+}

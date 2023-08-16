@@ -1,0 +1,7 @@
+{
+    "description": "Validasi data gagal dengan pesan kesalahan: %s.",
+    "notEmpty": "field '%s' tidak boleh kosong",
+    "isObject": "field '%s' harus data object",
+    "registered": "%s terdaftar",
+    "unRegistered": "%s tidak terdaftar"
+}

@@ -1,0 +1,13 @@
+{
+    "resource": {
+      "notFound": "Data %s dengan %s tidak ditemukan.",
+      "exist": "Data %s %s sudah ada",
+      "accountNotFound": "Akun %s tidak terdaftar di sistem.",
+      "invalidParams": "Permintaan data %s dengan parameter yang tidak sesuai, sebab: %s.",
+      "invalidYearMonth": "Nilai tahun dan bulan tidak sesuai.",
+      "notAllowedCreate": "Pembuatan %s tidak diperbolehkan.",
+      "notAllowedUpdate": "Perubahan %s tidak diperbolehkan."
+    },
+    "unexpected": "Telah terjadi kesalahan, silakan mencoba beberapa saat lagi. (%s)"
+  }
+  

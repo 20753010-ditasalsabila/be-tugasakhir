@@ -1,0 +1,13 @@
+{
+    "resource": {
+      "notFound": "Data %s with %s not found.",
+      "exist": "Data %s %s already exist",
+      "accountNotFound": "Account %s is not registered in the system.",
+      "invalidParams": "Bad resource %s request parameter, reason: %s.",
+      "invalidYearMonth": "Invalid year and/or month value.",
+      "notAllowedCreate": "%s create not allowed.",
+      "notAllowedUpdate": "%s update not allowed."
+    },
+    "unexpected": "Something unexpected happened, please try again later. (%s)"
+  }
+  
